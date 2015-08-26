@@ -16,8 +16,5 @@
     "url" : "http://shaheenghiassy.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/sghiassy/react-native-sglistview",
-  "peerDependencies": {
-    "react-native": "<=1.x"
-  }
+  "homepage": "https://github.com/sghiassy/react-native-sglistview"
 }
